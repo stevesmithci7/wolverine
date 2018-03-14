@@ -1,0 +1,8 @@
+.navigation-box {
+    position: fixed;
+    width: 250px;
+    height: 90px;
+    background: #2db34a;
+    border: 2px solid black;
+    right: 0;
+  }
